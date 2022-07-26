@@ -1,2 +1,1 @@
-# menampilkan-data-dari-database-CI
-Sekedar dokumentasi.
+Sekedar dokumentasi biar gak lupa.
